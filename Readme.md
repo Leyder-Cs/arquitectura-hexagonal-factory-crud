@@ -1,11 +1,11 @@
-### Nota sobre la Edición de Productos en el Frontend ###################3
+### Nota sobre la Edición de Productos en el Frontend ###################
 
 Al hacer clic en el botón **"Editar"** de cualquier producto en la tabla (tanto en MySQL como en MongoDB):
 
 - Los datos del producto se cargan automáticamente en el **formulario principal ubicado en la parte superior de la página** (el título del formulario cambia a `Editar producto #ID`).
 - Si estás viendo la lista o los filtros más abajo en la pantalla, simplemente **sube al formulario principal** en la parte superior para modificar los campos (`Nombre`, `Precio`, `Descripción`) y presionar **"Guardar cambios"** (o **"Cancelar"**).
 
-# #########GUÍA DE EJECUCIÓN DEL PROYECTO
+###GUÍA DE EJECUCIÓN DEL PROYECTO
 
 ### 1. Requisitos Previos
 
